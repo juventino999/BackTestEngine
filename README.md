@@ -1,0 +1,2 @@
+# BackTestEngine
+Backtest trading strategies
